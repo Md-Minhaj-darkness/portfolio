@@ -64,6 +64,7 @@ if (motionOK) {
   document.querySelectorAll("[split-by='letter']").forEach(splitByLetter);
 }
 
+
 // Speed control
 const speedSlider = document.getElementById("speedSlider");
 const speedValue = document.getElementById("speedValue");
